@@ -1,6 +1,6 @@
 public class Main {
-    public Main() {
-    }
+
+
 
     public static void main(String[] args) {
         Montres m = new Montres(4, 54);
