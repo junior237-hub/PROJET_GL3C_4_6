@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 public class Personnnes {
 
     public Montres affiche(){
@@ -17,8 +17,6 @@ public class Personnnes {
         System.out.println("");
     }
 }
-
-=======
 public class Personnnes<String> {
     private String nom;
     private Montres tool = null;
@@ -35,5 +33,5 @@ public class Personnnes<String> {
     public String getNom() {
         return nom;
     }
->>>>>>> 32ed1319e3bc34c700ed6b83b6ac2555e729c59d
+
 }
