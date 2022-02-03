@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="NGUIMENE" />
+        <module name="PROJET_GL3C_4_6" />
       </profile>
     </annotationProcessing>
   </component>
